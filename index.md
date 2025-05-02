@@ -1,3 +1,9 @@
+---
+title: Sitka Sound Science Center
+---
+
+<link rel="stylesheet" href="styles.css">
+
 # [Sitka Sound Science Center](https://sitkascience.org/research/current-and-past-research/)
 
 Welcome to the official GitHub Pages site for the [Sitka Sound Science Center (SSSC)](https://sitkascience.org/), a nonprofit organization dedicated to increasing awareness and understanding of aquatic, marine, and terrestrial ecosystems of coastal Alaska through education and research.
@@ -20,7 +26,7 @@ Explore some of our current and past research initiatives:
 
 - **Southeast Alaska Attitudinal COVID-19 Survey**: Capturing Southeast Alaskans' perceptions during the COVID-19 pandemic to help mitigate impacts on rural, isolated communities.
 
-- **Marine Debris**: Research, cleanup, and outreach efforts addressing marine debris in Alaska's coastal environments. :contentReference[oaicite:2]{index=2}
+- **Marine Debris**: Research, cleanup, and outreach efforts addressing marine debris in Alaska's coastal environments.
 
 For a comprehensive list of our research projects, visit our [Current & Past Research](https://sitkascience.org/research/current-and-past-research/) page.
 
@@ -30,9 +36,9 @@ For a comprehensive list of our research projects, visit our [Current & Past Res
 
 We embrace open-source technology to advance our mission. Here are some of our notable projects:
 
-- **[Sitka-Salmon](https://github.com/Sitka-Sound-Science-Center/Sitka-Salmon)**: A Unity game developed to teach visitors about the salmon life cycle, created by a team from Western Washington University. :contentReference[oaicite:3]{index=3}
+- **[Sitka-Salmon](https://github.com/Sitka-Sound-Science-Center/Sitka-Salmon)**: A Unity game developed to teach visitors about the salmon life cycle, created by a team from Western Washington University.
 
-- **[Sitka Landslide Risk Dashboard](https://github.com/ehmatthes/sitka_irg_realtime)**: A project aimed at helping residents understand the real-time risk of landslides in the local area. :contentReference[oaicite:4]{index=4}
+- **[Sitka Landslide Risk Dashboard](https://github.com/ehmatthes/sitka_irg_realtime)**: A project aimed at helping residents understand the real-time risk of landslides in the local area.
 
 - **[Monitoring Locations Web Map](https://github.com/Sitka-Sound-Science-Center/monitoring_locations_web_map)**: An interactive map showcasing environmental monitoring locations in Southeast Alaska.
 
@@ -51,9 +57,7 @@ Our research contributes to scientific knowledge and community awareness. Access
 Join us in our mission to promote scientific understanding and stewardship of Alaska's ecosystems:
 
 - **[Visit Us](https://sitkascience.org/visit/)**: Explore our aquarium and hatchery, and participate in educational programs.
-
 - **[Support Us](https://sitkascience.org/support/)**: Learn how you can contribute through donations, memberships, or volunteering.
-
 - **[Contact Us](https://sitkascience.org/contact/)**: Reach out with questions, collaborations, or to learn more about our work.
 
 ---
