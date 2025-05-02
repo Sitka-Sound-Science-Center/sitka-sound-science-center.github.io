@@ -2,13 +2,13 @@
 
 Welcome to the official GitHub Pages site for the [Sitka Sound Science Center (SSSC)](https://sitkascience.org/), a nonprofit organization dedicated to increasing awareness and understanding of aquatic, marine, and terrestrial ecosystems of coastal Alaska through education and research.
 
-## 🌊 About Us
+## About Us
 
 Located in Sitka, Alaska, SSSC is an official member of the Organization of Biological Field Stations and the National Association of Marine Laboratories. We engage in a wide variety of locally relevant marine, aquatic, and terrestrial research, partnering with universities, organizations, and government departments to benefit, educate, and inspire our community and the world. 
 
 ---
 
-## 🔬 Featured Research Projects
+## Featured Research Projects
 
 Explore some of our current and past research initiatives:
 
@@ -26,7 +26,7 @@ For a comprehensive list of our research projects, visit our [Current & Past Res
 
 ---
 
-## 🧪 Open-Source Projects
+## Open-Source Projects
 
 We embrace open-source technology to advance our mission. Here are some of our notable projects:
 
@@ -40,13 +40,13 @@ Explore all our repositories on our [GitHub organization page](https://github.co
 
 ---
 
-## 📚 Publications
+## Publications
 
 Our research contributes to scientific knowledge and community awareness. Access our publications and reports on our [Publications](https://sitkascience.org/research/publications/) page.
 
 ---
 
-## 🤝 Get Involved
+## Get Involved
 
 Join us in our mission to promote scientific understanding and stewardship of Alaska's ecosystems:
 
