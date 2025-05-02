@@ -1,6 +1,6 @@
 # [Sitka Sound Science Center](https://sitkascience.org/research/current-and-past-research/)
 
-Welcome to the official GitHub Pages site for the [Sitka Sound Science Center (SSSC)](https://sitkascience.org/), a nonprofit organization dedicated to increasing awareness and understanding of aquatic, marine, and terrestrial ecosystems of coastal Alaska through education and research.
+### Welcome to the official GitHub Pages site for the [Sitka Sound Science Center (SSSC)](https://sitkascience.org/), a nonprofit organization dedicated to increasing awareness and understanding of aquatic, marine, and terrestrial ecosystems of coastal Alaska through education and research.
 ---
 
 ## 🌊 About Us
