@@ -1,0 +1,39 @@
+/* styles.css */
+
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  margin: 2rem auto;
+  max-width: 800px;
+  padding: 0 1rem;
+  color: #333;
+  background-color: #fdfdfd;
+}
+
+h1, h2, h3 {
+  color: #003F5C; /* Deep sea blue */
+  margin-top: 2rem;
+}
+
+a {
+  color: #0077b6; /* Lighter blue accent */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: #ccc;
+  margin: 2rem 0;
+}
+
+code {
+  background-color: #f4f4f4;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  font-family: Menlo, Monaco, Consolas, monospace;
+}
